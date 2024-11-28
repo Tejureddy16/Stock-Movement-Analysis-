@@ -13,7 +13,6 @@ The project involves the following steps:
 
 The main code is written in the Jupyter notebook `capx_assessment.ipynb`.
 
-## Project Structure
 
 ## Prerequisites
 
@@ -35,11 +34,11 @@ bash
 git clone https://github.com/yourusername/stock-sentiment-analysis.git
 cd stock-sentiment-analysis
 
-2. Install Dependencies
+## Install Dependencies
 
 pip install -r requirements.txt
 
-3. Open and Run the Jupyter Notebook
+## Open and Run the Jupyter Notebook
 
 jupyter notebook capx_assessment.ipynb
 
